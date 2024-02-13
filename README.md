@@ -2,7 +2,6 @@
 This repository showcases a program designed for the analysis of XML files within a specified folder, with a primary focus on the recognition and classification of drug names through a sequence labeling machine learning algorithm. This innovative approach simplifies the task of semantic processing in pharmaceutical data, leveraging advanced neural network architectures for enhanced accuracy and efficiency.
 
 **Key Features**:
-- **Main Program Execution**: A straightforward `run.sh` script situated in the `./tarea_principal` directory facilitates the analysis, encapsulating the complexity of the task within a user-friendly interface.
 - **B-I-O Schema Utilization**: Adhering to the traditional machine learning structure, the B-I-O (Begin-Inside-Outside) schema is meticulously applied, providing a robust framework for entity recognition.
 - **Dual-Program Design**: The architecture comprises two main components - a trainer and a classifier, each serving a distinct purpose in the model training and classification processes.
 - **Data Handling**: Emphasis is placed on proper data formatting and encoding, ensuring that both training and validation datasets are optimally prepared for model consumption.
